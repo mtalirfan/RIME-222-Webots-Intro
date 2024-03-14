@@ -4,7 +4,7 @@ RIME-222 Assignment 1
 
 ## Description
 
-This repository contains the code for RIME-222 Assignment 1. The goal of this assignment is to get hands-on exposure of Webots, and formulate a project proposal for a Webots project.
+This repository contains the samples and demo projects for RIME-222 Assignment 1. The goal of this assignment is to get hands-on exposure of Webots, and formulate a project proposal for a Webots project.
 
 Webots is an open source robot simulation software for Windows. The Webots simulated codes are transferrable to many real robot platforms. Webots is used worldwide both in academia (Stanford University, Michigan University, Oxford University etc.) and in industry (Samsung, Siemens, Toyota, Honda etc.).
 
