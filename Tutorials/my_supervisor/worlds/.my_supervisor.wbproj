@@ -5,5 +5,5 @@ sceneTreePerspectives: 000000ff000000010000000300000026000000c0000000fa010000000
 maximizedDockId: -1
 centralWidgetVisible: 1
 orthographicViewHeight: 1
-textFiles: 0 "controllers/supervisor_controller/supervisor_controller.py"
+textFiles: 0 "../../Tutorials/my_supervisor/controllers/supervisor_controller/supervisor_controller.py"
 consoles: Console:All:All
